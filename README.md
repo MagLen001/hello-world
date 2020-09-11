@@ -1,4 +1,3 @@
 # hello-world
-My first repository
-
-I'm new here and looking forward to collaborate wth you all!
+I'm MagLen, new here.
+Looking forward to collaborate and dominate the wworld
